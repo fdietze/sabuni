@@ -22,7 +22,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff0088" />
+        <option name="FOREGROUND" value="ff2ae3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1024,8 +1024,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffd5b9" />
-        <option name="ERROR_STRIPE_COLOR" value="ffd5b9" />
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="ERROR_STRIPE_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
