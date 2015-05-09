@@ -2,6 +2,7 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="f3fcff" />
     <option name="LINE_NUMBERS_COLOR" value="0" />
+    <option name="READONLY_BACKGROUND" value="f0f0f0" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
