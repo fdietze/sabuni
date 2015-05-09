@@ -224,6 +224,7 @@
       <value>
         <option name="FOREGROUND" value="5200" />
         <option name="BACKGROUND" value="bbffa6" />
+        <option name="ERROR_STRIPE_COLOR" value="ad00" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -320,8 +321,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffff00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff00" />
+        <option name="FOREGROUND" value="5200" />
+        <option name="BACKGROUND" value="bbffa6" />
+        <option name="ERROR_STRIPE_COLOR" value="ad00" />
       </value>
     </option>
     <option name="TODO_ATTRIBUTES">
