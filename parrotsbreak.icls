@@ -198,6 +198,11 @@
         <option name="FOREGROUND" value="e99171" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="a8e9ff" />
+      </value>
+    </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a94ff" />
