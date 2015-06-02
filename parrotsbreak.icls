@@ -152,7 +152,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff" />
-        <option name="ERROR_STRIPE_COLOR" value="ff" />
+        <option name="ERROR_STRIPE_COLOR" value="3763b0" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -180,9 +180,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fffcf7" />
-        <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="BACKGROUND" value="fff5e6" />
+        <option name="ERROR_STRIPE_COLOR" value="ffdfb3" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -364,8 +363,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fff9e6" />
-        <option name="ERROR_STRIPE_COLOR" value="ffc61a" />
+        <option name="BACKGROUND" value="fff2cc" />
+        <option name="ERROR_STRIPE_COLOR" value="ffcc80" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
