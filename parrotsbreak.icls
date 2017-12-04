@@ -145,7 +145,6 @@
       <value>
         <option name="EFFECT_COLOR" value="e7002d" />
         <option name="ERROR_STRIPE_COLOR" value="e7002d" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -167,7 +166,6 @@
       <value>
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
@@ -203,9 +201,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fff5e6" />
-        <option name="ERROR_STRIPE_COLOR" value="ffdfb3" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ffbe00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffbe00" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -386,9 +383,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fff2cc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffcc80" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ff8e1c" />
+        <option name="ERROR_STRIPE_COLOR" value="ff8e1c" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -409,6 +405,38 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e7002d" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ad00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="a14b00" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="a94ff" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="a94ff" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a94ff" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
