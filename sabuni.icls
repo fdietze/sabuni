@@ -321,6 +321,11 @@
         <option name="FOREGROUND" value="3b00cb" />
       </value>
     </option>
+    <option name="Scala Local variable">
+      <value>
+        <option name="FOREGROUND" value="e99171" />
+      </value>
+    </option>
     <option name="Scala Mutable Collection">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -330,7 +335,7 @@
     </option>
     <option name="Scala Object">
       <value>
-        <option name="FOREGROUND" value="4100cc" />
+        <option name="FOREGROUND" value="3b00cb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -344,6 +349,16 @@
       <value>
         <option name="FOREGROUND" value="456474" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Scala Template lazy val/var">
+      <value>
+        <option name="FOREGROUND" value="3b00cb" />
+      </value>
+    </option>
+    <option name="Scala Template val">
+      <value>
+        <option name="FOREGROUND" value="3b00cb" />
       </value>
     </option>
     <option name="Scala Template var">
