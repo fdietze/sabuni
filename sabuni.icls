@@ -170,8 +170,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="f49810" />
-        <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="EFFECT_COLOR" value="e7002d" />
+        <option name="ERROR_STRIPE_COLOR" value="e7002d" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
@@ -212,8 +212,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffbe00" />
-        <option name="ERROR_STRIPE_COLOR" value="ffbe00" />
+        <option name="EFFECT_COLOR" value="c2c2c2" />
+        <option name="ERROR_STRIPE_COLOR" value="c2c2c2" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -425,8 +425,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff8e1c" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8e1c" />
+        <option name="EFFECT_COLOR" value="ffbe00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffbe00" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
