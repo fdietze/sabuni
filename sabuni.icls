@@ -35,20 +35,20 @@
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="3b00cb" />
-        <option name="BACKGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="19af00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+    <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cab2" />
         <option name="FONT_TYPE" value="1" />
@@ -126,7 +126,6 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="3b00cb" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
