@@ -4,7 +4,7 @@ Light Colorscheme for IntelliJ IDEA
 
 ## Goals
 
-* Focused on Scala, but also works well for Java
+* Focused on Scala, Java, Dart and Kotlin
 * Light with high contrast, useful for working with daylight or outside
 * Semantic highlighting
     * Make mutability (currently only vars) visible
