@@ -234,6 +234,7 @@
       <value>
         <option name="EFFECT_COLOR" value="e7002d" />
         <option name="ERROR_STRIPE_COLOR" value="e7002d" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -257,7 +258,6 @@
         <option name="ERROR_STRIPE_COLOR" value="e7002d" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HOCON_BOOLEAN">
       <value>
         <option name="FOREGROUND" value="2183ff" />
@@ -342,7 +342,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="0" />
