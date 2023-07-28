@@ -1,0 +1,43 @@
+<idea-plugin>
+  <id>io.github.fdietze.sabuni</id>
+  <name>Sabuni Color Scheme</name>
+  <category>UI</category>
+  <version>1.0.0</version>
+  <vendor email="mail@felx.me" url="https://github.com/fdietze/sabuni/">Felix Dietze</vendor>
+
+  <description><![CDATA[
+  <h1>Sabuni</h1>
+  <p>A Light Color Scheme</p>
+
+  <p>
+  Goals:
+  <ul>
+    <li>Focused on Scala, Java, Dart and Kotlin</li>
+    <li>Light with high contrast, useful for working with daylight or outside</li>
+    <li>
+      Semantic highlighting
+      <ul>
+        <li>Make mutability (currently only vars) visible</li>
+        <li>Distinguish usages of class, trait, abstract class and object</li>
+        <li>Mark implicit conversions</li>
+      </ul>
+    </li>
+  </ul>
+  </p>
+  <img src="https://raw.githubusercontent.com/fdietze/sabuni/master/screenshot001.png" width="700" /><br />
+  <img src="https://raw.githubusercontent.com/fdietze/sabuni/master/screenshot002.png" width="700" /><br />
+  <img src="https://raw.githubusercontent.com/fdietze/sabuni/master/screenshot003.png" width="700" /><br />
+  <img src="https://raw.githubusercontent.com/fdietze/sabuni/master/screenshot004.png" width="700" /><br />
+  ]]></description>
+
+  <change-notes><![CDATA[
+      
+    ]]>
+  </change-notes>
+
+  <depends>com.intellij.modules.platform</depends>
+  <idea-version since-build="142.0"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="8ba49283-f03a-4f47-bc9d-2a5ae7eef043" path="/themes/sabuni-light.theme.json" />
+  </extensions>
+</idea-plugin>
